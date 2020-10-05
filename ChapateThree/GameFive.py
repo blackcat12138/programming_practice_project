@@ -46,7 +46,7 @@ print('''
 num = input("请输入成语填填乐难度等级菜单的数字，如：3\n")
 filename = "E://06_workspace//jobspace//pythonDemo//tmp//" + "idiom" + num + ".txt"
 lists = []
-with open(filename, 'r', encoding='UTF-8') as  file:
+with open(filename, 'r', encoding='UTF-8') as file:
     while True:
         line = file.readline()
         if line == '':
