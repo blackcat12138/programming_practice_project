@@ -37,9 +37,9 @@ while j < count:
             str1 = str1 + exp1 + '\n'
             str2 = str2 + exp2 + '\n'
         j = j + 1
-with open('E://05_job src//programming_practice_project//CoreApplication//tmp//math.txt', 'w') as f:
+with open('/CoreApplication[001-017]//tmp//math.txt', 'w') as f:
     f.write(str1)
-with open('E://05_job src//programming_practice_project//CoreApplication//tmp//key.txt', 'w') as f:
+with open('/CoreApplication[001-017]//tmp//key.txt', 'w') as f:
     f.write(str2)
 print(count, '道混合加减法题：')
 print(str1)
