@@ -11,5 +11,7 @@ programming_practice_project 工程是学习python的相关案例和实战项目
             ChapateFive
       
       实战案例练习文件夹：(进价篇)
-            CoreApplication
-            
+            CoreApplication[001-017]
+            InternetWorm[018-026]
+            DataGraph[027-041]
+                  
